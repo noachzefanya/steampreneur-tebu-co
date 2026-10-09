@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production Build Output
+dist/
+build/
+
+# Environment Variables & Secrets (PENTING)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+# Temporary Debug & Scratch Scripts
+check_*.js
+scratch_*.js
+scratch_*.cjs
+verify_schema.js
+
+# One-off Supabase SQL scripts (not standard migrations)
+supabase/fix_backend_anomalies.sql
+supabase/fix_profiles_and_cleanup.sql
+supabase/driver_role_migration.sql
+supabase/prevent_double_booking.sql
+supabase/clean_obsolete_tables.sql
+supabase/add_rendemen_column.sql
+
+# Editor & System Files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
