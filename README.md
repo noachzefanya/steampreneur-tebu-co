@@ -36,12 +36,11 @@ Tulis langkah selengkap mungkin. Juri akan meng-clone repositori ini ke komputer
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/nama-akun/steampreneur-nama-tim.git
+git clone https://github.com/noachzefanya/steampreneur-tebu-co
 
 ```
 
 
-*(Catatan: Sesuaikan URL dengan link repositori lomba kalian)*
 2. Masuk ke folder proyek:
 ```bash
 cd steampreneur-nama-tim
