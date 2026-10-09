@@ -24,9 +24,7 @@ Tulis langkah selengkap mungkin. Juri akan meng-clone repositori ini ke komputer
 
 * Node.js versi 18 LTS atau lebih baru.
 
-
-* Browser Chrome atau Firefox.
-
+* Browser/Peramban (disarankan Chrome/Firefox)
 
 * Akun / Proyek Supabase yang sudah aktif.
 
@@ -72,12 +70,7 @@ npm run dev
 
 ### Akun atau data contoh
 
-Jika website memerlukan login atau data awal, tuliskan di sini. Gunakan data contoh, bukan data sungguhan.
-
-| Peran | Username | Password |
-| --- | --- | --- |
-| Petani Tebu | petani_demo | tebuco123 |
-| Admin Pabrik Gula | admin_pg | admin123 |
+Bagian ini tidak perlu mengisi/mendaftar akun, karena kami sudah menyediakan mode demo untuk masing-masing user persona. Demo mode tersedia untuk semua jenis user, baik user petani, sopir maupun admin pabrik gula.
 
 ### Jika terjadi masalah
 
